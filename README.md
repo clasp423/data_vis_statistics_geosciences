@@ -1,5 +1,5 @@
 # Data Visualization & Statistics in the Geosciences 2019
-UPDATE: The 2020+ versions of this class are hosted on a course specific Github page. This will be updated to reflect the new course link upon set up (12/4/2019). 
+UPDATE: The 2019 and 2018 versions of this class are hosted both on this Github user profile, as well as on github.com/astro-abby. 
 
 This repository contains the laboratory portion of a split upper level undergraduate / graduate class in Python on data visualization and statistics for geo &amp; space scientists. Labs will be updated from January - May at the same cadence as the course (2019). The 2018 version may be found in the 2018 branch.
 
