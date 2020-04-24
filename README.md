@@ -16,7 +16,7 @@ you can navigate to Jupyter through Anaconda/Canopy. Also see
 [the Jupyter website](https://www.jupyter.org) for additional help with Jupyter.
 
 Make sure you check out the
-[Frequently Asked Questions](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)
+[Frequently Asked Questions](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)
 section as you go through the labs. 
 
 Please see our liscense at the end of this readme.
@@ -36,23 +36,21 @@ https://github.com/clasp423/data_vis_statistics_geosciences. 2020.
 
 # Current Content
 
-### [Frequently Asked Questions](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grouping of frequently asked questions
+### [Frequently Asked Questions](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md); Grouping of frequently asked questions
 on programming, visualization, and statistics.
 
-### [EXTRA Data Visualization Basics (5/16/2018)](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mini lessons and lectures for the
+### [EXTRA Data Visualization Basics (5/16/2018)](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf); Mini lessons and lectures for the
 [2018 ICOS Big Data Summer Camp](https://github.com/ICOSBigDataCamp/2018-summer-camp)
 and this course at University of Michigan.
 
 ## Labs
 
-### Lab 1 - Intro to Python - What *is* Pandas?
+### [Lab 1 - Intro to Python - What *is* Pandas?](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/Lab%1/lab1_climatic_averages_global_temperatures.ipynb)
 
 Temperature Changes: Looking at Global Temperature Variances in the
 last century.
 
-### Lab 2 - Multi-panel plots and datetime objects
+[### Lab 2 - Multi-panel plots and datetime objects](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%202)
 
 Ecosystem Impacts: Looking at Audobon Society data on bird wintering patterns.
 
