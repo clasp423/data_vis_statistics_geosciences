@@ -16,9 +16,7 @@ you can navigate to Jupyter through Anaconda/Canopy. Also see
 [the Jupyter website](https://www.jupyter.org) for additional help with Jupyter.
 
 Make sure you check out the
-[Frequently Asked Questions](
-https://github.com/astro-abby/data_vis_statistics_geosciences/blob/
-master/FAQ/FAQ.md)
+[Frequently Asked Questions](https://github.com/astro-abby/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)
 section as you go through the labs. 
 
 Please see our liscense at the end of this readme.
