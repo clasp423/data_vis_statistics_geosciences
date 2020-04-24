@@ -45,42 +45,42 @@ and this course at University of Michigan.
 
 ## Labs
 
-### [Lab 1 - Intro to Python - What *is* Pandas?](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/Lab%1/lab1_climatic_averages_global_temperatures.ipynb)
+### [Lab 1 - Intro to Python - What *is* Pandas?](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%201)
 
 Temperature Changes: Looking at Global Temperature Variances in the
 last century.
 
-[### Lab 2 - Multi-panel plots and datetime objects](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%202)
+### [Lab 2 - Multi-panel plots and datetime objects](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%202)
 
 Ecosystem Impacts: Looking at Audobon Society data on bird wintering patterns.
 
-### Lab 3 - Time series spacecraft data; data merging and indexing
+### [Lab 3 - Time series spacecraft data; data merging and indexing](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%203)
 
 Planetary Magnetic Fields: Jupiter data with Jupyter; investigating how to
 use and interpret interplanetary
 spacecraft mission data from the recent Juno mission.
 
-### Lab 4 - Groupby, Normal Distributions, and Boxplots
+### [Lab 4 - Groupby, Normal Distributions, and Boxplots](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%204)
 
 Health Impacts: Normal distributions of temperature and boxplots of extremes.
 
-### Lab 5 - Linear Regression & Geo-mapping with sea ice data
+### [Lab 5 - Linear Regression & Geo-mapping with sea ice data](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%205)
 
 Arctic Indicators: Calculating rates of change of sea ice extent and mapping\
 Note: this lab uses cartopy and netcdf4 python packages, which are not part of
 the base anaconda distribution.\
 
-### Lab 6 - Correlation Coefficients, Bootstrapping, and Space Weather
+### [Lab 6 - Correlation Coefficients, Bootstrapping, and Space Weather](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%206)
 
 Space Weather: Solar impacts on the geospace environment; using the bootstrap
 method to determine uncertainty in calculated stats
 
-### Lab 7 - Image Manipulation and Spacecraft Data
+### [Lab 7 - Image Manipulation and Spacecraft Data](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%207)
 
 Jupiter Images with Jupyter: Looking at spacecraft image data from the JunoCam
 instrument from the Juno mission.
 
-### Lab 8 - Model Performance with Metrics
+### [Lab 8 - Model Performance with Metrics](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%208)
 
 Zoo of Metrics: Calculating and interpreting several Fit Performance & Event
 Detection metrics for comparing model output to observations.
