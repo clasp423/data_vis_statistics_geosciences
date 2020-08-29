@@ -5,7 +5,7 @@ undergraduate / graduate class in Python on data visualization and statistics
 for geo &amp; space scientists.
 Labs were updated in April at the conclusion of the Winter 2020 term.
 The previous versions may be found in the other branches as well as on as
-well as on github.com/astro-abby. 
+well as on github.com/abbyazari. 
 
 The labs uploaded are in Jupyter primarily and coded in Python 3.5+.
 However, most of the functions and methods should work in Python 2.7.
@@ -23,7 +23,7 @@ Please see our liscense at the end of this readme.
 This class has been developed in collaboration between
 [Dr. Michael Liemohn](http://clasp.engin.umich.edu/people/liemohn)
 of the Climate & Space Sciences & Engineering department and 
-[Abby Azari](https://astro-abby.github.io/). The 2019 and 2020 versions were
+[Abby Azari](https://abbyazari.github.io/). The 2019 and 2020 versions were
 updated with the assistance of [Brian Swiger](https://github.com/briswi). 
 
 If you find it useful and end up using in your work please cite this as: 
