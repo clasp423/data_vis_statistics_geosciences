@@ -36,11 +36,13 @@ https://github.com/clasp423/data_vis_statistics_geosciences. 2020.
 
 # Current Content
 
-### [Frequently Asked Questions](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md); Grouping of frequently asked questions
-on programming, visualization, and statistics.
+### [Frequently Asked Questions](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)
 
-### [EXTRA Data Visualization Basics (5/16/2018)](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf); Mini lessons and lectures for the
-[2018 ICOS Big Data Summer Camp](https://github.com/ICOSBigDataCamp/2018-summer-camp)
+Grouping of frequently asked questions on programming, visualization, and statistics.
+
+### [EXTRA Data Visualization Basics (5/16/2018)](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/VisualizationBasics/Visualization_Basics.pdf)
+
+Mini lessons and lectures for the [2018 ICOS Big Data Summer Camp](https://github.com/ICOSBigDataCamp/2018-summer-camp)
 and this course at University of Michigan.
 
 ## Labs
