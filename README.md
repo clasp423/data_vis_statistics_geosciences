@@ -21,7 +21,7 @@ Make sure you check out the
 section as you go through the labs. 
  
 Please see our license at the end of this readme.
-This class has been developed in collaboration between
+This class was developed in collaboration between
 [Dr. Michael Liemohn](http://clasp.engin.umich.edu/people/liemohn)
 of the Climate & Space Sciences & Engineering department and 
 [Dr. Abby Azari](https://abbyazari.github.io/) in 2018. 
