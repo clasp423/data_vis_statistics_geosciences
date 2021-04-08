@@ -4,7 +4,7 @@ This repository contains the laboratory portion of a split upper level
 undergraduate / graduate class in Python on data visualization and statistics
 for geo &amp; space scientists.
 
-Labs were updated in April at the conclusion of the Winter 2021 term as led by Alex Shane. 
+Labs were updated in April at the conclusion of the Winter 2021 term as led by [Dr. Michael Liemohn](http://clasp.engin.umich.edu/people/liemohn) and supported by Alex Shane.
 
 The previous version, Winter 2020, may be found under tags, 2018 and 2019 may be found on [github.com/abbyazari](https://github.com/abbyazari).
 
@@ -27,7 +27,7 @@ of the Climate & Space Sciences & Engineering department and
 [Dr. Abby Azari](https://abbyazari.github.io/) in 2018. 
 
 If you find it useful and end up using in your work please cite this version as: 
-- Shane, A. D., Liemohn, M. W., Swiger, B. M., and Azari, A. R.
+- Liemohn, M. W., Shane, A. D., Swiger, B. M., and Azari, A. R.
 "Data Visualization and Statistics in the Geosciences".
 Accessed on *insert date*.
 https://github.com/clasp423/data_vis_statistics_geosciences. 2021.
@@ -94,8 +94,6 @@ expertise in space weather informatics, solar physicist
 for expertise in solar surface data, and Jeff Lockhart of the
 [Computational Social Scientists](https://github.com/UM-CSS) (CSS)
 for offering resources through CSS.
-
-Last update 2021-04-08
 
 # License
 The content and lessons of this repository itself is licensed under the
