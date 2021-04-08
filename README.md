@@ -27,7 +27,7 @@ of the Climate & Space Sciences & Engineering department and
 [Dr. Abby Azari](https://abbyazari.github.io/) in 2018. 
 
 If you find it useful and end up using in your work please cite this version as: 
-- Shane, A. D., Swiger, B. M., Liemohn, M. W., and Azari, A. R.
+- Shane, A. D., Liemohn, M. W., Swiger, B. M., and Azari, A. R.
 "Data Visualization and Statistics in the Geosciences".
 Accessed on *insert date*.
 https://github.com/clasp423/data_vis_statistics_geosciences. 2021.
