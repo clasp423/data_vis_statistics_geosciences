@@ -3,6 +3,7 @@
 This repository contains the laboratory portion of a split upper level
 undergraduate / graduate class in Python on data visualization and statistics
 for geo &amp; space scientists.
+
 Labs were updated in April at the conclusion of the Winter 2020 term.
 The previous versions may be found in the other tags and as branches on [github.com/abbyazari](https://github.com/abbyazari). 
 
@@ -18,14 +19,15 @@ Make sure you check out the
 [Frequently Asked Questions](https://github.com/clasp423/data_vis_statistics_geosciences/blob/master/FAQ/FAQ.md)
 section as you go through the labs. 
  
-Please see our liscense at the end of this readme.
+Please see our license at the end of this readme.
 This class has been developed in collaboration between
 [Dr. Michael Liemohn](http://clasp.engin.umich.edu/people/liemohn)
 of the Climate & Space Sciences & Engineering department and 
-[Dr. Abby Azari](https://abbyazari.github.io/). The 2019 version was updated with the assistance of 
-[Brian Swiger](https://github.com/briswi). The 2020 version was led by [Brian Swiger](https://github.com/briswi). 
+[Dr. Abby Azari](https://abbyazari.github.io/) in 2018. 
 
-If you find it useful and end up using in your work please cite this as: 
+The 2020 version was led by [Brian Swiger](https://github.com/briswi). 
+
+If you find it useful and end up using in your work please cite this version as: 
 - Swiger, B. M., Liemohn, M. W., and Azari, A. R.
 "Data Visualization and Statistics in the Geosciences".
 Accessed on *insert date*.
@@ -53,8 +55,7 @@ Ecosystem Impacts: Looking at Audobon Society data on bird wintering patterns.
 ### [Lab 3 - Time series spacecraft data; data merging and indexing](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%203)
 
 Planetary Magnetic Fields: Jupiter data with Jupyter; investigating how to
-use and interpret interplanetary
-spacecraft mission data from the recent Juno mission.
+use and interpret interplanetary spacecraft mission data from the recent Juno mission.
 
 ### [Lab 4 - Groupby, Normal Distributions, and Boxplots](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%204)
 
@@ -62,9 +63,9 @@ Health Impacts: Normal distributions of temperature and boxplots of extremes.
 
 ### [Lab 5 - Linear Regression & Geo-mapping with sea ice data](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%205)
 
-Arctic Indicators: Calculating rates of change of sea ice extent and mapping\
+Arctic Indicators: Calculating rates of change of sea ice extent and mapping
 Note: this lab uses cartopy and netcdf4 python packages, which are not part of
-the base anaconda distribution.\
+the base anaconda distribution.
 
 ### [Lab 6 - Correlation Coefficients, Bootstrapping, and Space Weather](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%206)
 
