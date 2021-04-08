@@ -6,7 +6,7 @@ for geo &amp; space scientists.
 
 Labs were updated in April at the conclusion of the Winter 2021 term as led by Alex Shane. 
 
-The previous version 2020 may be found under tags, 2018 and 2019 may be found on [github.com/abbyazari](https://github.com/abbyazari).
+The previous version, Winter 2020, may be found under tags, 2018 and 2019 may be found on [github.com/abbyazari](https://github.com/abbyazari).
 
 The labs uploaded are in Jupyter primarily and coded in Python 3.5+.
 However, most of the functions and methods should work in Python 2.7.
