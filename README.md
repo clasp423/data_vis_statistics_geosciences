@@ -5,7 +5,7 @@ undergraduate / graduate class in Python on data visualization and statistics
 for geo &amp; space scientists.
 
 Labs were updated in April at the conclusion of the Winter 2020 term.
-The previous versions may be found in the other tags and as branches on [github.com/abbyazari](https://github.com/abbyazari). 
+The previous versions (2018, 2019) may be found on [github.com/abbyazari](https://github.com/abbyazari).
 
 The labs uploaded are in Jupyter primarily and coded in Python 3.5+.
 However, most of the functions and methods should work in Python 2.7.
