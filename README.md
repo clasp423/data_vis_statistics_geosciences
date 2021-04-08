@@ -1,11 +1,12 @@
-# Data Visualization & Statistics in the Geosciences 2020
+# Data Visualization & Statistics in the Geosciences 2021
 
 This repository contains the laboratory portion of a split upper level
 undergraduate / graduate class in Python on data visualization and statistics
 for geo &amp; space scientists.
 
-Labs were updated in April at the conclusion of the Winter 2020 term.
-The previous versions (2018, 2019) may be found on [github.com/abbyazari](https://github.com/abbyazari).
+Labs were updated in April at the conclusion of the Winter 2021 term as led by Alex Shane. 
+
+The previous version 2020 may be found under tags, 2018 and 2019 may be found on [github.com/abbyazari](https://github.com/abbyazari).
 
 The labs uploaded are in Jupyter primarily and coded in Python 3.5+.
 However, most of the functions and methods should work in Python 2.7.
@@ -25,13 +26,11 @@ This class has been developed in collaboration between
 of the Climate & Space Sciences & Engineering department and 
 [Dr. Abby Azari](https://abbyazari.github.io/) in 2018. 
 
-The 2020 version was led by [Brian Swiger](https://github.com/briswi). 
-
 If you find it useful and end up using in your work please cite this version as: 
-- Swiger, B. M., Liemohn, M. W., and Azari, A. R.
+- Shane, A. D., Swiger, B. M., Liemohn, M. W., and Azari, A. R.
 "Data Visualization and Statistics in the Geosciences".
 Accessed on *insert date*.
-https://github.com/clasp423/data_vis_statistics_geosciences. 2020.
+https://github.com/clasp423/data_vis_statistics_geosciences. 2021.
 
 
 
@@ -96,7 +95,7 @@ for expertise in solar surface data, and Jeff Lockhart of the
 [Computational Social Scientists](https://github.com/UM-CSS) (CSS)
 for offering resources through CSS.
 
-Last update 2020-04-24
+Last update 2021-04-08
 
 # License
 The content and lessons of this repository itself is licensed under the
