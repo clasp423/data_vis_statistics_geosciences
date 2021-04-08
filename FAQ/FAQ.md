@@ -92,7 +92,7 @@ This file contains groupings of commonly asked questions and resources with rega
 
 </details>
 
-# General Programming
+# General Programming and Statistics Questions
 
 <details>
   <summary> I'm feeling overwhelmed writing my own code. How do I start this? 
@@ -120,8 +120,6 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  - Python is extensively documented. You can use the help() function most simply or you can find most if not all of the documentation online as well. There are some general rules which we will be seeing in action in the labs for setting up for loops, functions, etc. 
 </details>
 
-# Lab 1 
-
 <details>
   <summary> What does the % character do in the labs? Specically in the %matplotlib inline? 
   </summary>
@@ -136,7 +134,6 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  - Python syntax runs on indentation. To end a for loop, you simply move back your indentation level. You can see this in Part 4. A. 
 </details>
 
-# Lab 2 
 <details>
   <summary> What must I set the limits for subplots which share an axis? 
   </summary>
@@ -161,8 +158,6 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  
 </details>
 
-# Lab 3 
-
 <details>
  <summary> 
   How do vmin, vmax, and set_under() work together?
@@ -179,10 +174,6 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - This isn't shows in Lab 3 but is a very common issue when dealing with plots with both low values and NaN values. The functionality you want is the set_under() AND the set_bad() options. There are several good examples in the official [Matplotlib documentation](https://matplotlib.org/examples/pylab_examples/image_masked.html).
 </details>
 
-
-
-
-# Lab 4 
 <details>
  <summary> 
   What if I have NaN values and want to take some summary statistics?
@@ -201,40 +192,11 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 <details>
  <summary> 
-  I'm having trouble orienting my understanding of the error propagation section in part 6 - how did you know what rule to use?
- </summary>
- 
-- Within our course textbook, An Introduction to Error Analysis: The Study of Uncertainties in Physical Measurements chapter three covers various cases of the error propagation rules. You can derive them from the general form (equation 3.47). When in doubt you can always use the full form. In fact in this case, it does simplify resulting in the constant error we observe in the final plot in Part 6. 
-</details>
-
-<details>
- <summary> 
  What are the stripes in Part 6 the final plot?
  </summary>
  
 - Because of the way we plotted the final figure, the NaN values in the array end up stopping the plotting envelope. When starting and stopping repeatedly over the x-axis this has the effect of shading the gap regions darker. Go ahead and try to change the axis limits to see a closer view of what it looks like. 
 </details>
-
-
-
-# Lab 5 
-<details>
- <summary> 
-  Why did plotting the anomaly values rather than the t-values (Part 2. C.) change the look of the plot?
- </summary>
- 
-- We normalized (calculated the t-values) for each month seperately. That means that we calculated the t-values for June only compared the the June distribution, July only to July etc. Each normalization comparison month has a seperate standard deviation. So when you move from anomaly value to the t-values the distribution changes.
-</details>
-
-<details>
- <summary> 
-  It looks like the plots in Part 2. D. onwards sum up to a probability of greater than 100%? What is going on here?
- </summary>
- 
-- If you notice in the documentation of [ax.hist()](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.hist.html) if you set density = True then the area under the curve is set to normalize to one. This can actually be quite confusing because if you have bins of < 1 width, it appears that the y-axis will add up to greater than one. This is something to keep in mind when using the density = True command.
-</details>
-
-# Lab 6  
 
 <details>
  <summary> 
@@ -252,8 +214,6 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 - This is something in Python called list comprehension. It's best to think of this like a nested for loop that outputs a list. What we did in lab was make a list of the netCDF file variables. The line loops through dataset.variables and populates a list with each one. A similar list comprehension example would be [v for v in np.arange(1, 10)] which would output [1, 2, 3, 4, 5, 6, 7, 8, 9]. 
 </details>
 
-# Lab 7  
-
 <details>
  <summary> 
  How can I interpret the ROC curve?
@@ -261,8 +221,6 @@ You can do this! If you start getting overwhelmed take a step back and make sure
  
 - We cover more details in lecture but there is additional description within [Fawcett, 2006](https://www.sciencedirect.com/science/article/pii/S016786550500303X) and usage for classification analysis within space physics check out [Azari et al., 2018](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JA025391).
 </details>
-
-# Lab 8  
 
 <details>
  <summary> 
