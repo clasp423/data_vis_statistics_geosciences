@@ -192,14 +192,6 @@ You can do this! If you start getting overwhelmed take a step back and make sure
 
 <details>
  <summary> 
- What are the stripes in Part 6 the final plot?
- </summary>
- 
-- Because of the way we plotted the final figure, the NaN values in the array end up stopping the plotting envelope. When starting and stopping repeatedly over the x-axis this has the effect of shading the gap regions darker. Go ahead and try to change the axis limits to see a closer view of what it looks like. 
-</details>
-
-<details>
- <summary> 
  I want to learn more about reading in netCDF files.
  </summary>
  
