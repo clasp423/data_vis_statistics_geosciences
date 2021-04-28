@@ -71,15 +71,17 @@ the base anaconda distribution.
 Space Weather: Solar impacts on the geospace environment; using the bootstrap
 method to determine uncertainty in calculated stats
 
-### [Lab 7 - Image Manipulation and Spacecraft Data](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%207)
+### [Lab 7 - Model Performance with Metrics](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%207)
+
+Zoo of Metrics: Calculating and interpreting several Fit Performance & Event
+Detection metrics for comparing model output to observations.
+
+### [Lab 8 - Image Manipulation and Spacecraft Data](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%208)
 
 Jupiter Images with Jupyter: Looking at spacecraft image data from the JunoCam
 instrument from the Juno mission.
 
-### [Lab 8 - Model Performance with Metrics](https://github.com/clasp423/data_vis_statistics_geosciences/tree/master/Lab%208)
 
-Zoo of Metrics: Calculating and interpreting several Fit Performance & Event
-Detection metrics for comparing model output to observations.
 
 
 Discussions with climate scientist
